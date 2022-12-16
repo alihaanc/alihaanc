@@ -1,6 +1,6 @@
 ### Hi there  I' m Alihan 👻 
 
-<img src ="https://media.giphy.com/media/3oFzmkkwfOGlzZ0gxi/giphy.gif" align="right" width="400" height="250">
+<img src ="https://media.giphy.com/media/3oFzmkkwfOGlzZ0gxi/giphy.gif" align="right" width="300" height="150">
 
 *This page is my journey through business life. To begin with, I have started my bachelor's degree education at Bülent Ecevit University. I am always on the hunt to improve myself and keep learning more and more.  I am sharing my projects here. I usually use C programming languages for Embedded systems and I also use Python and
 Matlab for Data Science , Wait for projects*!! ✌️
