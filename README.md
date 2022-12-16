@@ -13,8 +13,7 @@ Matlab for Data Science , Wait for projects*!! ✌️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alihan-%C3%A7oban-71a832202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alihaanc" height="30" width="40" /></a><a href="alihancoban4234@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93796314/208194730-7c07d6d9-dab9-44ed-b244-65affe0696b1.png" alt="alihaanc" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/alihan-%C3%A7oban-71a832202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alihaanc" height="30" width="40" /></a>
 
 
 
