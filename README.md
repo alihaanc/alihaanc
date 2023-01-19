@@ -6,7 +6,7 @@
 Matlab for Data Science , Wait for the projects*!! ✌️
 
 
-## Embedded Software Developer |  Data Scientist
+## Embedded Software/Hardware Developer 
 
 
 
