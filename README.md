@@ -33,10 +33,9 @@ Matlab for Data Science , Wait for the projects*!! ✌️
 
 <div align="center">
   <a href="https://github.com/alihaanc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaanc&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alihaanc&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alihaanc&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  </div>
+  
 
 <div align="center">     
  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
